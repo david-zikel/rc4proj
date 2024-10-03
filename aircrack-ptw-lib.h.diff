@@ -1,0 +1,3 @@
+102a103,104
+>         // The table with 'strong votes' for collision indices
+>         PTW_tableentry strongtable[PTW_KEYHSBYTES][PTW_n];
